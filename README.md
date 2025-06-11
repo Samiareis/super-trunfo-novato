@@ -27,6 +27,44 @@ PIB
 
 Número de pontos turísticos
 
+
+
+---
+
+
+---
+
+## 🚀 Nível Mestre
+
+### 🔧 Como compilar
+
+```bash
+gcc super_trunfo_mestre.c -o super_trunfo
+
+ Como executar
+bash
+Copiar
+Editar
+./super_trunfo
+📋 Funcionalidades adicionadas
+Leitura de duas cartas com unsigned long int para população.
+
+Cálculo de:
+
+Densidade populacional
+
+PIB per capita
+
+Super Poder
+
+Comparação entre os atributos das cartas:
+
+Para todos os atributos, vence o maior valor
+
+Para a densidade populacional, vence o menor valor
+
+Exibição do resultado das comparações de forma clara no terminal.
+
 Densidade demográfica
 
 Digite o número correspondente ao atributo desejado e pressione Enter.
